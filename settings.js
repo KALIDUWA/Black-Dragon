@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
+global.owner = ['94758179948'] //ur owner number
+global.ownername = "KALIDUWA" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
+global.socialm = "GitHub: KALIDUWA" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
+global.ownernomer = "94758179948" //ur number
+global.premium = ['94758179948'] //ur premium number
+global.botname = 'KALIDU MD BOT' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HdUz4tx61Qx3WRy3Dsd8qZ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.fectorm.com" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By KALIDU MD" //ur sticker watermark packname
+global.author = "KALIDUWA OFC" //ur sticker watermark author
+global.wm = "KALIDUWA OFC" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -47,7 +47,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'PLEASE WAIT...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
